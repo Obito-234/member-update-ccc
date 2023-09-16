@@ -429,4 +429,16 @@ export const club_advisor_details = [
     github_link: ``,
     year: ''
   },
+
+  id: 8,
+    firstname: 'Hrushikesh',
+    fullname: 'Hrushikesh pathy',
+    description: `interest for web development and Cloud Computing.`,
+    desgination: 'Web Developer & web designer',
+    member_type: 'Designer',
+    member:"student",
+    profile_img: 'https://avatars.githubusercontent.com/u/145218520?v=4',
+    linkedln_link: `https://www.linkedin.com/in/hrushikesh-pathy-ab3775257`,
+    github_link: `https://github.com/Obito-234?tab=repositories`,
+    year: '2022'
 ];
